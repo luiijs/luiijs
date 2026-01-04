@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Secret Projects**.<br><br>🌱 I’m currently learning **Next.js, Vue, Tailwind CSS and UIs.**<br><br>⚡ Fun fact **I am a human.**
+🔭 I’m currently working on **absoulute big projects**.<br><br>🌱 I’m currently learning **GoLang, New Software Architectures, Kubernetes etc.**<br><br>⚡ Fun fact **I am a human.**
 
 
 ## 🌐 Socials:
